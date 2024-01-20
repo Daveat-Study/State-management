@@ -1,0 +1,9 @@
+name: getit_tutorial
+
+packages:
+  - 'modules/*'
+  - lib/**
+
+scripts:
+  build_runner:
+    run: melos exec -- "dart run build_runner build --delete-conflicting-outputs"
