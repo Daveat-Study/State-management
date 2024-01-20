@@ -1,7 +1,6 @@
 
 Source:
-[Dependency Injection Using GetIt and Injectable](https://betterprogramming.pub/simplify-dependency-injection-between-different-packages-in-dart-e771e38908a6))
-https://www.dhiwise.com/post/exploring-flutter-tools-getit-injectable-and-autoroute
+[Provider - Floor - Get_it]https://medium.com/@mart.hei/flutter-development-a-crash-course-with-provider-floor-and-get-it-19929f5d8a13
 
 # Singleton
 https://flutterbyexample.com/lesson/singletons
